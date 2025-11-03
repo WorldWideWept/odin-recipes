@@ -1,1 +1,3 @@
 # odin-recipes
+The current project is about creating a basic recipe website. The skills I have demonstrated in participating in this project is creating a website using basic HTML format. Creating this website also instructed me to add an image, create lists, add links and use proper HTML tags to have a functioning webpage.
+At first it was confusing but as I keep repeating the same tasks over and over, I was able to get a hang of it especially with the help of TOP's assignment instructions.
